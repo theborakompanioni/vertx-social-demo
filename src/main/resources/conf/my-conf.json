@@ -1,0 +1,20 @@
+{
+  "baseUrl": "http://localhost:8080",
+  "oauth": {
+    "facebook": {
+      "id": "12345",
+      "secret": "12345"
+    },
+    "twitter": {
+      "id": "12345",
+      "secret": "12345"
+    },
+    "github": {
+      "id": "77473e85de8560c6383f",
+      "secret": "ccca4218503073e070fe3305a7208b0bd9bfaefd"
+    },
+    "jsonwebtoken": {
+      "salt": "f320fh92g1qefeqha4l78vadyqvvhe7q"
+    }
+  }
+}
